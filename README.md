@@ -51,4 +51,4 @@ This repository contains **Natural Language Processing (NLP)** projects focused 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/nlp-projects.git
+   git clone https://github.com/swapilverma/NLP-Projects.git
